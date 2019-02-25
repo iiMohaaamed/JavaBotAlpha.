@@ -1,6 +1,6 @@
 token= NTM4MzkxMTMxNzA5Mzc0NDY1.D1NfEQ.b8V6cC8_wPPjGnndFNy5_8onNWU
 owner= 475797943480352789 
-prefix= 5
-game= 5Play ,
+prefix= 1
+game= 1Play ,
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus= هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
