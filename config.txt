@@ -1,6 +1,6 @@
 token= NTM4MzkxMTMxNzA5Mzc0NDY1.D21FNw.DTEJH1Xo1ahRatYAEeo21jhOF_k
 owner= 475797943480352789 
-prefix= L
-game= Làsst | lplay
+prefix= B
+game= Brést | Bplay
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus= هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
